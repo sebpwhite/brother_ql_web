@@ -33,7 +33,7 @@ Install prerequisites:
 Get the code:
 
     cd /opt
-    git clone https://github.com/tbnobody/brother_ql_web.git
+    git clone https://github.com/sebpwhite/brother_ql_web.git
 
 Build the venv and install the requirements:
 
